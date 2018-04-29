@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GameBoard.qml</file>
+        <file>Card.qml</file>
+        <file>SettingsWindow.qml</file>
+        <file>Settings.qml</file>
+    </qresource>
+</RCC>

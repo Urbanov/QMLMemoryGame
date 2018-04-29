@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/fruits">
+        <file>agrest.jpeg</file>
+        <file>ananas.png</file>
+        <file>arbuz.jpg</file>
+        <file>banan.jpg</file>
+        <file>cytryna.jpg</file>
+        <file>granat.jpg</file>
+        <file>grejpfrut.jpg</file>
+        <file>gruszka.jpg</file>
+        <file>jablko.jpg</file>
+        <file>kiwi.jpg</file>
+        <file>kokos.jpeg</file>
+        <file>malina.jpg</file>
+        <file>mandarynka.jpg</file>
+        <file>mango.png</file>
+        <file>pomarancz.jpg</file>
+        <file>sliwka.jpeg</file>
+        <file>truskawka.png</file>
+        <file>winogrono.jpg</file>
+        <file>wisnia.jpg</file>
+    </qresource>
+</RCC>

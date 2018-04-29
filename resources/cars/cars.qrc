@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/cars">
+        <file>458gt2.jpg</file>
+        <file>ae86.jpg</file>
+        <file>c7r.jpg</file>
+        <file>e31.jpg</file>
+        <file>e39.jpg</file>
+        <file>integra.jpg</file>
+        <file>prelude.jpg</file>
+        <file>r32gtr.jpg</file>
+        <file>rx7.png</file>
+        <file>s14.jpg</file>
+        <file>testarossa.jpg</file>
+    </qresource>
+</RCC>

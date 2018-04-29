@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/animals">
+        <file>aligator.jpg</file>
+        <file>bocian.jpg</file>
+        <file>kameleon.jpg</file>
+        <file>kon.jpg</file>
+        <file>kot.jpg</file>
+        <file>krolik.jpg</file>
+        <file>mucha.jpg</file>
+        <file>mysz.jpg</file>
+        <file>nosacz.jpg</file>
+        <file>owca.jpg</file>
+        <file>papuga.jpg</file>
+        <file>pies.jpeg</file>
+        <file>ryba.jpg</file>
+        <file>slon.jpg</file>
+        <file>tygrys.jpg</file>
+        <file>wilk.jpg</file>
+        <file>zebra.jpg</file>
+        <file>zyrafa.jpg</file>
+    </qresource>
+</RCC>
